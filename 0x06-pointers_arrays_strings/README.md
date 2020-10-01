@@ -1,0 +1,1 @@
+This directory contains files for C - More pointers, arrays and strings projects
