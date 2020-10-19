@@ -6,6 +6,7 @@
  *@name: First member.
  *@age: Second member.
  *@owner: Third member.
+ *@d: structure pointer name.
  *
  *Description: Header file containing structure declarations.
  */
