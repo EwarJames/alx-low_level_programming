@@ -1,5 +1,5 @@
-#ifndef VARIADIC_FUNCTION_H
-#define VARIADIC_FUNCTION_H
+#ifndef VARIADIC_FUNCTIONS_H
+#define VARIADIC_FUNCTIONS_H
 
 /**
  * struct printer - A new struct type defining a printer.
@@ -11,7 +11,6 @@ typedef struct printer
 {
 char *symbol;
 void (*print)(va_list arg);
-
 }
 printer_t;
 
