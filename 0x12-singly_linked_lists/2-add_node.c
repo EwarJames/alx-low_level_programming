@@ -9,6 +9,7 @@
  *Return: If the function fails - NULL.
  *        Otherwise - Address of the new element.
  */
+
 list_t *add_node(list_t **head, const char *str)
 {
 char *duplicate;
@@ -26,7 +27,10 @@ free(newptr);
 return (NULL);
 }
 
-for (length = 0; str[length]; length++)
+length = 0;
+while (str[length])
+
+length++;
 
 newptr->str = duplicate;
 newptr->len = length;
