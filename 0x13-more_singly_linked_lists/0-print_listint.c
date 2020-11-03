@@ -2,8 +2,8 @@
 #include <stdio.h>
 
 /**
- *print_listint - Prints all elements of a list_t list.
- *@h: Pointer to the structure list_t.
+ *print_listint - Prints all elements of a listint_t list.
+ *@h: Pointer to the structure listint_t.
  *
  *Return: Number of nodes.
  */
