@@ -14,7 +14,7 @@ listint_t *add_nodeint_end(listint_t **head, const int n)
 
 listint_t *newptr, *lastptr;
 
-newptr = malloc(n * sizeof(listint_t));
+newptr = malloc(sizeof(listint_t));
 if (newptr == NULL)
 return (NULL);
 
