@@ -1,0 +1,1 @@
+This direcotry contains files for the project Dynamic libraries
