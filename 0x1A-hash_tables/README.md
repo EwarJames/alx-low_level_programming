@@ -1,0 +1,1 @@
+This directory contains files for the project C - Hash tables
