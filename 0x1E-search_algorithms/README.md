@@ -1,0 +1,1 @@
+This directory contains files for the project 0x1E. C - Search Algorithms
